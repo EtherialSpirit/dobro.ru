@@ -1,0 +1,10 @@
+[28-Sep-2019 01:50:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_avatar_url(), 0 passed in /home/wmbbwtmp/public_html/wp-content/themes/twentynineteen/index.php on line 340 and at least 1 expected in /home/wmbbwtmp/public_html/wp-includes/link-template.php:3937
+Stack trace:
+#0 /home/wmbbwtmp/public_html/wp-content/themes/twentynineteen/index.php(340): get_avatar_url()
+#1 /home/wmbbwtmp/public_html/wp-includes/template-loader.php(78): include('/home/wmbbwtmp/...')
+#2 /home/wmbbwtmp/public_html/wp-blog-header.php(19): require_once('/home/wmbbwtmp/...')
+#3 /home/wmbbwtmp/public_html/index.php(17): require('/home/wmbbwtmp/...')
+#4 {main}
+  thrown in /home/wmbbwtmp/public_html/wp-includes/link-template.php on line 3937
+[28-Sep-2019 09:47:06 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 522194944 bytes) in /home/wmbbwtmp/public_html/wp-content/themes/twentynineteen/index.php on line 340
+[28-Sep-2019 09:47:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 522194944 bytes) in /home/wmbbwtmp/public_html/wp-content/themes/twentynineteen/index.php on line 340

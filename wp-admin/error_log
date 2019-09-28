@@ -1,0 +1,1 @@
+[28-Sep-2019 05:08:00 UTC] База данных WordPress возвратила ошибку Table 'wmbbwtmp_wp679.wpo8_fblb' doesn't exist в ответ на запрос SELECT * FROM wpo8_fblb WHERE id = 1, выполненный activate_plugin, include_once('/plugins/wp-like-button/crudlab-fb-like-button.php'), CLFBLBtn->__construct
